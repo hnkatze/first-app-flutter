@@ -1,7 +1,7 @@
 
 # Flutter First Steps Project
 
-![Flutter Logo](https://flutter.dev/assets/flutter-mono-81x100.png)
+![Flutter Logo](https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png)
 
 ## Table of Contents
 
