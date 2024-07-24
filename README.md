@@ -1,7 +1,7 @@
 
 # Flutter First Steps Project
 
-![Flutter Logo](https://www.kindpng.com/picc/m/355-3557482_flutter-logo-png-transparent-png.png)
+![Flutter Logo](https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png?f=webp)
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/hnkatze/first-app-flutter
-   cd flutter-first-steps
+   cd first-app-flutter
    ```
 
 2. **Get the dependencies**:
@@ -101,7 +101,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+No License 
 
 ## Acknowledgements
 
